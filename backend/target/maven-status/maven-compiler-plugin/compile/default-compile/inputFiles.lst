@@ -1,0 +1,15 @@
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/model/Slot.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/repository/BookingRepository.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/controller/ParkingController.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/model/ParkingLot.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/ParkingApplication.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/controller/UserController.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/repository/ParkingLotRepository.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/config/DataInitializer.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/model/Booking.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/repository/SlotRepository.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/ws/SlotWebSocketHandler.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/controller/ManagerController.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/repository/UserRepository.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/config/WebSocketConfig.java
+/Users/ujjwalagrawal/Drive1/Monu/test2/backend/src/main/java/com/example/parking/model/User.java

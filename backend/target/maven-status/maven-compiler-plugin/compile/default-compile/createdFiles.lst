@@ -1,0 +1,15 @@
+com/example/parking/config/WebSocketConfig.class
+com/example/parking/model/Booking.class
+com/example/parking/repository/SlotRepository.class
+com/example/parking/repository/UserRepository.class
+com/example/parking/controller/ManagerController.class
+com/example/parking/controller/ParkingController.class
+com/example/parking/model/ParkingLot.class
+com/example/parking/repository/BookingRepository.class
+com/example/parking/ParkingApplication.class
+com/example/parking/model/User.class
+com/example/parking/config/DataInitializer.class
+com/example/parking/model/Slot.class
+com/example/parking/repository/ParkingLotRepository.class
+com/example/parking/ws/SlotWebSocketHandler.class
+com/example/parking/controller/UserController.class
